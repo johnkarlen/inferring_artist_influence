@@ -1,6 +1,6 @@
 # inferring_artist_influence
 
-This project contains code for scraping images of famous fine art from http://www.artchive.com/artchive/, and then using transfer learning to learn properties of individual artists. I retrieved 50 images per artist.
+This project contains code for scraping images of famous fine art from http://www.artchive.com/, and then using transfer learning to learn properties of individual artists. I retrieved 50 images per artist.
 
 - scrape_art_imgaes.py pulls the images from the artchive
 - art_tf_script.sh will run tensorflow. It closely follows a tutorial found here: https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0
